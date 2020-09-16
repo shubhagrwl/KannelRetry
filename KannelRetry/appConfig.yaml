@@ -1,0 +1,14 @@
+---
+    KannelRetryDB:
+      host: '127.0.0.1'
+      port: '3306'
+      user: 'kannel'
+      pass: 'Shubham@0802'
+      name: 'kannel'
+    KannelHost: 'localhost'
+    KannelPort: 13013
+    Username: 'kannel'
+    Password: 'kannel'
+    MaxRetry: 3
+    SenderID: 6375
+    
